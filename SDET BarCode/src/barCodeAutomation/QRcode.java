@@ -43,7 +43,7 @@ public class QRcode {
 		
 		System.out.println(result.getText());
 	
-		
+		driver.close();
 	
 	
 	}
